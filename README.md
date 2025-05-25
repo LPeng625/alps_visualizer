@@ -1,6 +1,6 @@
-###步骤：
-####1、执行getGraphFromImage.py
-####2、执行
+### 步骤：
+#### 1、执行getGraphFromImage.py
+#### 2、执行
 ```
 java -jar visualizerDG.jar -params ./data/paramsDG.txt
 
