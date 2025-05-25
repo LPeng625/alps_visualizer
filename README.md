@@ -18,4 +18,6 @@ image-dir = /.../imagepath   #原图路径，如果原图是png格式，执行�
 #### 3、可视化
 ![APLS visualizer](data/可视化.jpg)
 
-#### Code source: https://github.com/antran89/road_visualizer
+
+## Acknowledgments
+We thank the authors of https://github.com/antran89/road_visualizer for open-source code.
