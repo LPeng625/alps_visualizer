@@ -18,4 +18,4 @@ image-dir = /.../imagepath   #原图路径，如果原图是png格式，执行�
 
 
 #### 3、可视化
-![Uploading image.png…]()
+![APLS visualizer](data/可视化.jpg)
