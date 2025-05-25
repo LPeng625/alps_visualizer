@@ -1,0 +1,8 @@
+solution = data/103201_mask_pred.csv
+
+truth = data/103201_mask_gt.csv
+
+
+image-dir = data/DeepGlobe_Sample
+
+band-triplets = ./data/band-triplets.txt
