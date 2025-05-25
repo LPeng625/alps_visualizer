@@ -15,8 +15,7 @@ truth = /.../labels.csv   #标签的csv，执行步骤1生成
 image-dir = /.../imagepath   #原图路径，如果原图是png格式，执行步骤1转换成jpg格式
 ```
 
-#### Code source: https://github.com/antran89/road_visualizer
-
-
 #### 3、可视化
 ![APLS visualizer](data/可视化.jpg)
+
+#### Code source: https://github.com/antran89/road_visualizer
